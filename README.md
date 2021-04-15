@@ -1,5 +1,5 @@
 ## Print da interface em funcionamento até o momento
-![](https://i.imgur.com/UEHWxka.png)
+![](https://i.imgur.com/dKRAQGo.png)
 
 ## Project setup
 ```
