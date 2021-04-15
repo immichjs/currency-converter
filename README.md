@@ -1,25 +1,24 @@
 ## Print da interface em funcionamento até o momento
-![](https://i.imgur.com/UEHWxka.png)
+<p align="center">
+    <img width="360" src="https://i.imgur.com/tNzMxa3.png">
+    <img width="360" src="https://i.imgur.com/uLx715H.png">
+</p>
 
-## Project setup
+<p align="center">
+    <img src="to_readme/conversor-em-funcioncionamento.gif">
+</p>
+
+## Executar em sua máquina local
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+### Servidor de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar projeto para produção
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
