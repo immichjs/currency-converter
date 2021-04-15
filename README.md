@@ -2,9 +2,6 @@
 <p align="center">
     <img width="360" src="https://i.imgur.com/tNzMxa3.png">
     <img width="360" src="https://i.imgur.com/uLx715H.png">
-</p>
-
-<p align="center">
     <img src="to_readme/conversor-em-funcioncionamento.gif">
 </p>
 
