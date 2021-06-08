@@ -10,7 +10,7 @@
         <span
             v-if="convertedDollar"
             class="mt-2 text-base font-medium text-center text-purple-600 bg-transparent"
-        >{{ convertedDollar }}</span>
+        >{{ convertedDollar | currency }}</span>
     </div>
 </template>
 
@@ -33,7 +33,7 @@ export default {
                 this.brl = ''
                 this.convertedDollar = ''
             } else {
-                this.convertedDollar = `$ ${(this.brl * this.coins.USD.bid).toFixed(2)}`
+                this.convertedDollar = this.brl * this.coins.USD.bid
             }
         },
     },
